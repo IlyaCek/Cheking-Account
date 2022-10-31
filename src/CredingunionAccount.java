@@ -6,7 +6,6 @@ import java.io.*;
 import javax.swing.*;
 
 public class CredingunionAccount {
-    //declaring variables
     private int account;
     private String lastName;
     private String firstName;
